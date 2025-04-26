@@ -8,7 +8,7 @@ The main goal of the project is to make medicine buying hassle-free and trusted 
 Frontend 
 
 ## Deplolyed App
-Frontend: https://deployed-site.whatever
+Frontend: [https://deployed-site.whatever](https://pharmanew-akm7y8iti-bishtgaurav0s-projects.vercel.app/)
 
 
 ## Directory Structure
