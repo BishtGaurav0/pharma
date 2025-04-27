@@ -8,7 +8,7 @@ The main goal of the project is to make medicine buying hassle-free and trusted 
 Frontend 
 
 ## Deplolyed App
-Frontend: [https://deployed-site.whatever](https://pharmanew-akm7y8iti-bishtgaurav0s-projects.vercel.app/)
+Frontend: https://pharmawebsite-s92s.vercel.app/
 
 
 ## Directory Structure
@@ -27,7 +27,11 @@ pharma/
 ├── README.md
 
 ## Video Walkthrough of the project
-Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
+  
+
+https://github.com/user-attachments/assets/a18d2aca-0d9f-490a-8883-7e1a8d962f56
+
+
 
 
 ## Features
@@ -65,7 +69,7 @@ List out the key features of your application.
 
 ## Installation & Getting started
 # Clone the repository
-git clone https://github.com/your-username/pharma.git
+git clone [https://github.com/your-username/pharma.git](https://github.com/BishtGaurav0/pharma.git)
 
 # Move into the project directory
 cd pharma
